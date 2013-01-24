@@ -3,7 +3,11 @@ gmail-setup
 
 Tool to retrieve proper Google API credentials for node to send mail with Gmail
 
-[![build status](https://secure.travis-ci.org/carlos8f/node-gmail-setup.png)](http://travis-ci.org/carlos8f/node-gmail-setup)
+Start with:
+
+```
+$ app_client_secret={google app secret here} node index.js
+```
 
 - - -
 
