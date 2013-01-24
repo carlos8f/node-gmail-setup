@@ -1,0 +1,5 @@
+auth_uri: https://accounts.google.com/o/oauth2/auth
+token_uri: https://accounts.google.com/o/oauth2/token
+client_id: 215283736810.apps.googleusercontent.com
+base_uri: http://localhost:8080
+scope: https://mail.google.com/
